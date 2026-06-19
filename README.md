@@ -26,6 +26,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliver-lebaigue-bright-bench&theme=dark&hide_border=true" alt="Streak Stats" />
       </td>
     </tr>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-lebaigue-bright-bench&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=5" alt="Top Languages" />
   </table>
 
   <br/><br/>
