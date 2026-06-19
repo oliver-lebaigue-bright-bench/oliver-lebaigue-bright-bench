@@ -25,12 +25,7 @@
       <td>
         <img
           src="https://github-readme-stats.vercel.app/api?username=oliver-lebaigue-bright-bench&show_icons=true&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
-          alt="Most Used Languages"
-        />
-        <br />
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=oliver-lebaigue-bright-bench&show_icons=true&theme=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=true&rank_icon=percentile"
-          alt="Stats"
+          alt="stats"
         />
       </td>
       <td>
@@ -53,6 +48,6 @@
         src="https://img.shields.io/badge/Profile-1db954?logo=spotify&logoColor=white&style=for-the-badge"
         alt="My Spotify Profile"
         height="30"
-      /> </a
+      /> </a>
   ></kbd>
 </div>
