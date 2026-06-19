@@ -4,7 +4,7 @@
       <td>
         <img
           src="https://lanyard.ohitstom.vercel.app/api/1383944551277924443?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"
-          alt="Tom's Lanyard Status"
+          alt="Oliver's Lanyard Status"
         />
       </td>
     </tr>
@@ -13,7 +13,9 @@
   <table>
     <tr>
       <td>
-        ![oliver-lebaigue-bright-bench's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliver-lebaigue-bright-bench&theme=nord&hide_border=true)
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=oliver-lebaigue-bright-bench&theme=nord&hide_border=true"
+          alt="Oliver's streak status"
       </td>
     </tr>
   </table>
