@@ -3,7 +3,8 @@
   <table style="border: none; border-collapse: collapse; background: transparent;">
     <tr style="border: none; background: transparent;">
       <td valign="top" align="left" style="border: none; padding-right: 15px; background: transparent;">
-        <img src="https://lanyard.ohitstom.vercel.app/api/1383944551277924443?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover" alt="Lanyard Status" />
+        <img src="https://lanyard.ohitstom.vercel.app/api/1383944551277924443?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=covers&showDisplayName=true" alt="Lanyard Status" />
+        [![Discord Presence](https://lanyard.cnrad.dev/api/1383944551277924443?theme=light&bg=809ecf&animated=false&hideDiscrim=false&idleMessage=Probably%20doing%20something%20else...&showDisplayName=true)](https://discord.com/users/1383944551277924443)
       </td>
       <td valign="top" align="right" style="border: none; background: transparent;">
         <a href="https://open.spotify.com/user/31qr6daz3nhqtyfbmohqbbocw62e?si=ab01f5721ce44743" target="_blank" title="Open In Spotify">
