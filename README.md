@@ -14,7 +14,7 @@
     <tr>
       <td>
         <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=oliver-lebaigue-bright-bench&theme=nord&hide_border=true"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=oliver-lebaigue-bright-bench&theme=dark&hide_border=true"
           alt="Oliver's streak status"
       </td>
     </tr>
