@@ -34,12 +34,11 @@
         />
       </td>
       <td>
-        <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mrcool06&redirect=true" target="_self" title="Open In Spotify">
+        <a href="https://open.spotify.com/user/31qr6daz3nhqtyfbmohqbbocw62e?si=ab01f5721ce44743" target="_self" title="Open In Spotify">
           <img
-            ssrc="https://spotify-github-profile.kittinanx.com/api/view?uid=31qr6daz3nhqtyfbmohqbbocw62e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false"
+            src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31qr6daz3nhqtyfbmohqbbocw62e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false"
             style="height: 380px"
-          />
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qr6daz3nhqtyfbmohqbbocw62e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false"
+            alt="Spotify Playing"
           />
         </a>
       </td>
@@ -54,6 +53,6 @@
         src="https://img.shields.io/badge/Profile-1db954?logo=spotify&logoColor=white&style=for-the-badge"
         alt="My Spotify Profile"
         height="30"
-      /> </a>
+      /> </a
   ></kbd>
 </div>
