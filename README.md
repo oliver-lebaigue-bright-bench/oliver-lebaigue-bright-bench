@@ -7,7 +7,7 @@
       </td>
       <td valign="top" align="right" style="border: none; background: transparent;">
         <a href="https://open.spotify.com/user/31qr6daz3nhqtyfbmohqbbocw62e?si=ab01f5721ce44743" target="_blank" title="Open In Spotify">
-          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qr6daz3nhqtyfbmohqbbocw62e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=2e532d&bar_color_cover=false&mode=dark" alt="Spotify Playing" />
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qr6daz3nhqtyfbmohqbbocw62e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=2e532d&bar_color_cover=false&mode=dark" alt="Spotify Playing" />
         </a>
       </td>
     </tr>
