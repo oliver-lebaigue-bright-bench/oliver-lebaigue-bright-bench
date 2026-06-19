@@ -14,7 +14,7 @@
     <tr>
       <td>
         <img
-          src="https://github-readme-stats-ohitstoms-projects.vercel.app/api/top-langs/?username=OhItsTom&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
+          src="https://github-readme-stats-ohitstoms-projects.vercel.app/api/top-langs/?username=oliver-lebaigue-bright-bench&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
           alt="Most Used Languages"
         />
         <br />
@@ -24,8 +24,11 @@
         />
       </td>
       <td>
-        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31qr6daz3nhqtyfbmohqbbocw62e&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qr6daz3nhqtyfbmohqbbocw62e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mrcool06&redirect=true" target="_self" title="Open In Spotify">
+          <img
+            src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=mrcool06&cover_image=true&theme=default&show_offline=false&background_color=transparent&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&interchange=true&bar_color_cover=true"
+            style="height: 380px"
+          />
         </a>
       </td>
     </tr>
