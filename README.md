@@ -24,7 +24,7 @@
     <tr>
       <td>
         <img
-          src="https://github-readme-stats.vercel.app/api?username=oliver-lebaigue-bright-bench&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
+          src="https://github-readme-stats.vercel.app/api?username=oliver-lebaigue-bright-bench&show_icons=true&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
           alt="Most Used Languages"
         />
         <br />
