@@ -13,6 +13,14 @@
   <table>
     <tr>
       <td>
+        ![oliver-lebaigue-bright-bench's Streak](https://github-readme-streak-stats.herokuapp.com/?user=oliver-lebaigue-bright-bench&theme=nord&hide_border=true)
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <td>
         <img
           src="https://github-readme-stats-ohitstoms-projects.vercel.app/api/top-langs/?username=oliver-lebaigue-bright-bench&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
           alt="Most Used Languages"
