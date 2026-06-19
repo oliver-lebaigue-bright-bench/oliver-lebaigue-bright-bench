@@ -5,7 +5,7 @@
     <tr style="border: none; background: transparent;">
       <td valign="top" align="left" style="border: none; padding-right: 15px; background: transparent;">
         <a href="https://discord.com/users/1383944551277924443" target="_blank">
-          <img src="https://lanyard.cnrad.dev/api/1383944551277924443?theme=light&bg=809ecf&animated=false&hideDiscrim=false&idleMessage=Probably%20doing%20something%20else...&showDisplayName=true" alt="Discord Presence" />
+          <img src="https://lanyard.cnrad.dev/api/1383944551277924443?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover&animated=false&hideDiscrim=false&idleMessage=Probably%20doing%20something%20else...&showDisplayName=true" alt="Discord Presence" />
         </a>
       </td>
       <td valign="top" align="right" style="border: none; background: transparent;">
