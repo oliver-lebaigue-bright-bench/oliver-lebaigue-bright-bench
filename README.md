@@ -52,17 +52,6 @@
         src="https://img.shields.io/badge/Profile-1db954?logo=spotify&logoColor=white&style=for-the-badge"
         alt="My Spotify Profile"
         height="30"
-      /> </a
-  ></kbd>
-  <kbd>
-    <a
-      href="https://spotify.tompc.live/all?gname=All&token=d9858b0f-7a57-423f-9499-5fdba1dfc6b8"
-    >
-      <img
-        src="https://img.shields.io/badge/Stats-1db954?logo=spotify&logoColor=white&style=for-the-badge"
-        alt="My Spotify Stats"
-        height="30"
-        style="border-radius: 50%"
-      /> </a
+      /> </a>
   ></kbd>
 </div>
