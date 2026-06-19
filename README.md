@@ -47,7 +47,7 @@
   <h1></h1>
 
   <kbd
-    ><a href="https://open.spotify.com/user/mrcool06">
+    ><a href="https://open.spotify.com/user/31qr6daz3nhqtyfbmohqbbocw62e?si=ab01f5721ce44743">
       <img
         src="https://img.shields.io/badge/Profile-1db954?logo=spotify&logoColor=white&style=for-the-badge"
         alt="My Spotify Profile"
