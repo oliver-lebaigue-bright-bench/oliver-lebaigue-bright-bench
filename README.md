@@ -76,6 +76,11 @@ Outside of code, I'm a **photographer** — my work is sold in galleries and at 
 
 <div align="center">
 
+<!-- Dynamic Contribution Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oliver-lebaigue-bright-bench&bg_color=00000000&color=cdd6f4&line=cba6f7&point=94e2d5&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+<br/>
+
 <img src="https://github-readme-stats.vercel.app/api?username=oliver-lebaigue-bright-bench&show_icons=true&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8&hide_rank=true" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-lebaigue-bright-bench&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=5" alt="Top Languages" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oliver-lebaigue-bright-bench&theme=dark&hide_border=true" alt="Streak Stats" />
