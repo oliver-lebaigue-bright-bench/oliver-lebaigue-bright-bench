@@ -16,7 +16,7 @@
 
 ### 👤 About
 
-Systems programmer and designer building honest tools at the intersection of **code and craft**. I'm a young software engineer from Wales with a background in robotics — I led the software for a local team that became the **first Welsh team to reach the UK National Championships**, placing in the top 10% nationally.
+Systems programmer and designer building honest tools at the intersection of **code and craft**. I'm a young software engineer from Wales with a background in robotics — I led the software for a local team that became the **first Welsh team to reach the UK National Championships**, placing in the top 11% nationally.
 
 I'm the **founder of [Luminus Labs](https://github.com/luminus-labs)**, a human-scale workshop where a small team builds with clarity over clutter and craft over scale. Our flagship project is **[Flux-OS](https://github.com/luminus-labs/flux-os)** — a 32-bit hobbyist operating system written from scratch in C and x86 Assembly, aiming for a minimalist, typography-driven "Nothing OS" inspired desktop environment.
 
@@ -55,17 +55,18 @@ Outside of code, I'm a **photographer** — my work is sold in galleries and at 
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **[Better Nothing Music Visualizer](https://github.com/aleks-levet/better-nothing-music-visualizer)** | An Android app that replaces the stock Glyph visualizer on Nothing Phones with precise, 60 FPS FFT-driven light mapping — plus haptic and flashlight visualisation. | `Android` `Kotlin` `FFT` `Audio` |
 | **[Flux-OS](https://github.com/luminus-labs/flux-os)** | A 32-bit hobbyist OS written from scratch. Minimalist, typography-driven, philosophically bare metal. | `C` `x86 Assembly` `GRUB` |
 | **[Luminus Labs](https://luminus-labs.netlify.app)** | The workshop's home — building honest tools at the intersection of design and engineering. | `Web` `Design` |
 | **[Pet Paths](https://pet-paths.netlify.app)** | A mapping tool that turns fragmented local knowledge into shared safety data. | `Community` `Web` |
+| **Robotics (FTC)** | Lead software for 4 years. First Welsh team to reach UK Nationals. Top 11% nationally. | `Java` `Hardware Integration` |
 | **NextBeat** | A social music platform built for moments, not algorithms. Democratic queue, every guest adds one song. | `Real-time` `Social` `WIP` |
-| **Robotics (VEX)** | Led software for 4 years. First Welsh team to reach UK Nationals. Top 10% nationally. | `Python` `Hardware Integration` |
 
 ---
 
 ### 🏆 Highlights
 
-- 🤖 **UK National Championships** — Led software for the first Welsh team to qualify; placed top 10% nationally
+- 🤖 **UK National Championships** — Led software for the first Welsh team to qualify; placed top 11% nationally
 - 🏅 **Annual Recognition** — Awarded for contributions to the robotics team across 3 consecutive years
 - 🎖️ **Highest Scout Award** — Recognised for mentoring, leadership, and community involvement
 - 📸 **Photography** — Pieces sold in galleries and events across Pembrokeshire; commissioned event photographer
@@ -82,7 +83,7 @@ Outside of code, I'm a **photographer** — my work is sold in galleries and at 
 <br/><br/>
 
 <a href="https://github.com/luminus-labs" target="_blank"><img src="https://img.shields.io/badge/Luminus_Labs-111111?style=for-the-badge&logo=github&logoColor=white" alt="Luminus Labs" height="35" /></a>
-<a href="https://open.spotify.com/user/31qr6daz3nhqtyfbmohqbbocw62e?si=ab01f5721ce44743" target="_blank"><img src="https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="35" /></a>
+<a href="https://open.spotify.com/user/31qr6daz3nhqtyfbmohqbbocw62e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="35" /></a>
 <a href="https://discord.gg/FSEqyNRRXa" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35" /></a>
 
 <br/><br/>
