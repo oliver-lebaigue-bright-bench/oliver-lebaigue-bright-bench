@@ -59,7 +59,7 @@ Outside of code, I'm a **photographer** — my work is sold in galleries and at 
 | **[Flux-OS](https://github.com/luminus-labs/flux-os)** | A 32-bit hobbyist OS written from scratch. Minimalist, typography-driven, philosophically bare metal. | `C` `x86 Assembly` `GRUB` |
 | **[Luminus Labs](https://luminus-labs.netlify.app)** | The workshop's home — building honest tools at the intersection of design and engineering. | `Web` `Design` |
 | **[Pet Paths](https://pet-paths.netlify.app)** | A mapping tool that turns fragmented local knowledge into shared safety data. | `Community` `Web` |
-| **Robotics (FTC)** | Lead software for 4 years. First Welsh team to reach UK Nationals. Top 11% nationally. | `Java` `Hardware Integration` |
+| **[Robotics (FTC)](https://ftcscout.org/teams/19265)** | Lead software for 4 years. First Welsh team to reach UK Nationals. Top 11% nationally. | `Java` `Hardware Integration` |
 | **NextBeat** | A social music platform built for moments, not algorithms. Democratic queue, every guest adds one song. | `Real-time` `Social` `WIP` |
 
 ---
