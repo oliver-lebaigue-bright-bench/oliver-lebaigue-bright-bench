@@ -1,14 +1,19 @@
 <div align="center">
 
-<!-- Typing intro pulled from Luminus Labs but made personal -->
+<!-- Typing intro -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Curiosity.+Code.+Craft." alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<a href="https://open.spotify.com/user/31qr6daz3nhqtyfbmohqbbocw62e?si=ab01f5721ce44743" target="_blank" title="Open In Spotify">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qr6daz3nhqtyfbmohqbbocw62e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=false&hide_remaster=false&bar_color=2e532d&bar_color_cover=false&mode=dark" alt="Spotify Playing" />
+<!-- Contact Actions -->
+<a href="tel:+447394591899"><img src="https://img.shields.io/badge/Text_Me-+44_7394_591899-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Text Me" height="35" /></a>
+<a href="mailto:oliverwhite2711@gmail.com"><img src="https://img.shields.io/badge/Email_Me-oliverwhite2711%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" height="35" /></a>
+
+<br/><br/>
+
+<a href="https://discord.com/users/1383944551277924443" target="_blank"><img src="https://lanyard.cnrad.dev/api/1383944551277924443?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover&animated=false&hideDiscrim=false&idleMessage=Probably%20doing%20something%20else...&showDisplayName=true" alt="Discord Presence" /></a>
+<a href="https://open.spotify.com/user/31qr6daz3nhqtyfbmohqbbocw62e?si=ab01f5721ce44743" target="_blank" title="Open In Spotify"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qr6daz3nhqtyfbmohqbbocw62e&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=2e532d&bar_color_cover=false&mode=dark" alt="Spotify Playing" />
 </a>
-
 
 <br/><br/>
 
@@ -18,11 +23,13 @@
 
 ### 👤 About
 
-Systems programmer and designer building honest tools at the intersection of **code and craft**. I'm a young software engineer from Wales with a background in robotics — I led the software for a local team that became the **first Welsh team to reach the UK National Championships**, placing in the top 11% nationally.
+Systems programmer and designer building honest tools at the intersection of **code and craft**. I'm a software engineer from Wales with a strong background in robotics — having led the software for a local team that became the **first Welsh team to reach the UK National Championships**, placing in the top 11% nationally. 
 
-I'm the **founder of [Luminus Labs](https://github.com/luminus-labs)**, a human-scale workshop where a small team builds with clarity over clutter and craft over scale. Our flagship project is **[Flux-OS](https://github.com/luminus-labs/flux-os)** — a 32-bit hobbyist operating system written from scratch in C and x86 Assembly, aiming for a minimalist, typography-driven "Nothing OS" inspired desktop environment.
+🎓 **Education:** Currently starting the **Level 3 IT course at Pembrokeshire College** to further deepen my technical foundation in hardware, networking, and software systems.
 
-Outside of code, I'm a **photographer** — my work is sold in galleries and at events across Pembrokeshire. I also volunteer as a **Young Scout Leader**, where I plan activities, mentor anxious youngsters, and was awarded the highest Scout award for my contributions.
+I'm the **founder of [Luminus Labs](https://github.com/luminus-labs)**, a human-scale workshop where a small team builds with clarity over clutter and craft over scale. Our flagship project is **[Flux-OS](https://github.com/luminus-labs/flux-os)** — a 32-bit hobbyist operating system written from scratch in C and x86 Assembly, aiming for a minimalist, typography-driven desktop environment.
+
+Outside of code, I'm a **photographer** — my work is sold in galleries and at events across Pembrokeshire. I also volunteer as a **Young Scout Leader**, where I plan activities, mentor youngsters, and was awarded the highest Scout award for my contributions.
 
 > *"The void is not empty. It is full of potential."*
 
@@ -68,11 +75,12 @@ Outside of code, I'm a **photographer** — my work is sold in galleries and at 
 
 ### 🏆 Highlights
 
-- 🤖 **UK National Championships** — Led software for the first Welsh team to qualify; placed top 11% nationally
-- 🏅 **Annual Recognition** — Awarded for contributions to the robotics team across 3 consecutive years
-- 🎖️ **Highest Scout Award** — Recognised for mentoring, leadership, and community involvement
-- 📸 **Photography** — Pieces sold in galleries and events across Pembrokeshire; commissioned event photographer
-- 🐾 **Community** — 4+ years of dedicated dog walking/care for elderly neighbours; volunteer at Kent Wildlife Trust, VC Gallery, and Happy Hands Hideaway
+- 🎓 **Pembrokeshire College** — Starting Level 3 IT to strengthen core computer science principles.
+- 🤖 **UK National Championships** — Led software for the first Welsh team to qualify; placed top 11% nationally.
+- 🏅 **Annual Recognition** — Awarded for contributions to the robotics team across 3 consecutive years.
+- 🎖️ **Highest Scout Award** — Recognised for mentoring, leadership, and community involvement.
+- 📸 **Photography** — Pieces sold in galleries and events across Pembrokeshire; commissioned event photographer.
+- 🐾 **Community** — 4+ years of dedicated dog walking/care for elderly neighbours; volunteer at Kent Wildlife Trust, VC Gallery, and Happy Hands Hideaway.
 
 ---
 
@@ -90,6 +98,8 @@ Outside of code, I'm a **photographer** — my work is sold in galleries and at 
 <br/><br/>
 
 <a href="https://github.com/luminus-labs" target="_blank"><img src="https://img.shields.io/badge/Luminus_Labs-111111?style=for-the-badge&logo=github&logoColor=white" alt="Luminus Labs" height="35" /></a>
+<a href="mailto:oliverwhite2711@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35" /></a>
+<a href="tel:+447394591899"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" height="35" /></a>
 <a href="https://open.spotify.com/user/31qr6daz3nhqtyfbmohqbbocw62e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1db954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" height="35" /></a>
 <a href="https://discord.gg/FSEqyNRRXa" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35" /></a>
 
