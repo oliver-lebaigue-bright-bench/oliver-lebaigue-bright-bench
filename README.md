@@ -29,7 +29,7 @@ Systems programmer and designer building honest tools at the intersection of **c
 
 I'm the **founder of [Luminus Labs](https://github.com/luminus-labs)**, a human-scale workshop where a small team builds with clarity over clutter and craft over scale. Our flagship project is **[Flux-OS](https://github.com/luminus-labs/flux-os)** — a 32-bit hobbyist operating system written from scratch in C and x86 Assembly, aiming for a minimalist, typography-driven desktop environment.
 
-Outside of code, I'm a **photographer** — my work is sold in galleries and at events across Pembrokeshire. I also volunteer as a **Young Scout Leader**, where I plan activities, mentor youngsters, and was awarded the highest Scout award for my contributions.
+Outside of code, I'm a **photographer** — my work is sold in galleries and at events across Pembrokeshire. I also used yo volunteer as a **Young Scout Leader**, where I planned activities, mentored youngsters, and was awarded the highest Scout award for my contributions.
 
 > *"The void is not empty. It is full of potential."*
 
